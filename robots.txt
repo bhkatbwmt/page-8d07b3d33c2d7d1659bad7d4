@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.100yaofang.com/sitemap.xml
